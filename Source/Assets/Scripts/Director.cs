@@ -4,6 +4,7 @@ using System.Collections;
 public class Director : MonoBehaviour {
 
 	// ceci est juste pour verifier que Github va voir la difference 
+	// rien n'a ete visible
 	public IisuInputProvider InputProvider;
 	
 	void Update()
