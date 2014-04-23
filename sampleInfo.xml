@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<SampleInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UniqueName>UnityUISample</UniqueName>
+  <Title>Unity3D: UI sample</Title>
+  <Updated>2012-05-03T11:23:23.6393759+02:00</Updated>
+  <Language>Unity</Language>
+  <Layer>UI</Layer>
+  <Tags>Unity3D, UI</Tags>
+  <ScreenShotUrl>screenshot.png</ScreenShotUrl>
+  <Description>Demonstrates pointing with UI and launching the Toolbox from a Unity game. iisu 3.0.1 required.</Description>
+  <Local>false</Local>
+  <SourceFile>Source/Assets/UISample.unity</SourceFile>
+  <BinFile>Build/UISample.exe</BinFile>
+  <Type>Sample</Type>
+  <IisuVersion>3.5.0</IisuVersion>
+</SampleInfo>
